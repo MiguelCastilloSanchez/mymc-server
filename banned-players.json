@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "uuid": "6ee32898-88bc-4b43-b3c8-104b18d8dd05",
+    "name": "Gup_Cat",
+    "created": "2024-12-26 04:30:03 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "98c18a9e-a092-459c-8fb5-2e91fb912bfe",
+    "name": "Flunched_Rat",
+    "created": "2024-12-26 04:28:05 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

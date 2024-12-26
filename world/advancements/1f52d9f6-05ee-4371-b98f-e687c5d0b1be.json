@@ -9,9 +9,12 @@
     "criteria": {
       "minecraft:cold_ocean": "2024-12-26 03:20:58 +0000",
       "minecraft:snowy_slopes": "2024-12-26 03:45:48 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-26 05:29:08 +0000",
       "minecraft:forest": "2024-12-25 02:57:54 +0000",
+      "minecraft:taiga": "2024-12-26 05:51:39 +0000",
       "minecraft:lush_caves": "2024-12-26 03:55:18 +0000",
       "minecraft:deep_cold_ocean": "2024-12-26 03:22:00 +0000",
+      "minecraft:eroded_badlands": "2024-12-26 04:36:47 +0000",
       "minecraft:desert": "2024-12-26 03:57:43 +0000",
       "minecraft:frozen_river": "2024-12-26 03:36:38 +0000",
       "minecraft:jungle": "2024-12-26 03:49:36 +0000",
@@ -21,6 +24,7 @@
       "minecraft:bamboo_jungle": "2024-12-26 03:51:16 +0000",
       "minecraft:warm_ocean": "2024-12-26 04:10:32 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-26 03:56:26 +0000",
+      "minecraft:badlands": "2024-12-26 04:41:27 +0000",
       "minecraft:flower_forest": "2024-12-25 07:11:12 +0000",
       "minecraft:beach": "2024-12-26 03:17:38 +0000",
       "minecraft:dark_forest": "2024-12-25 04:53:04 +0000",
@@ -35,6 +39,7 @@
       "minecraft:old_growth_birch_forest": "2024-12-25 02:56:47 +0000",
       "minecraft:deep_dark": "2024-12-25 05:32:07 +0000",
       "minecraft:meadow": "2024-12-25 07:11:50 +0000",
+      "minecraft:savanna": "2024-12-26 04:42:17 +0000",
       "minecraft:plains": "2024-12-25 02:59:12 +0000",
       "minecraft:pale_garden": "2024-12-25 04:53:12 +0000"
     },
@@ -755,10 +760,12 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-25 05:23:10 +0000",
       "minecraft:phantom": "2024-12-26 04:02:03 +0000",
+      "minecraft:silverfish": "2024-12-26 06:46:34 +0000",
       "minecraft:spider": "2024-12-25 03:11:21 +0000",
       "minecraft:zombie": "2024-12-25 03:12:51 +0000",
       "minecraft:creeper": "2024-12-25 03:48:51 +0000",
       "minecraft:zombie_villager": "2024-12-25 05:38:57 +0000",
+      "minecraft:husk": "2024-12-26 04:36:29 +0000",
       "minecraft:hoglin": "2024-12-25 21:14:19 +0000"
     },
     "done": false
@@ -2734,6 +2741,162 @@
   "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-26 04:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-26 04:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-26 04:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-26 04:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-26 04:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-26 04:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-26 04:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-26 04:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-26 04:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2024-12-26 04:51:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-26 05:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:dune_armor_trim_smithing_template_smithing_trim": "2024-12-26 05:04:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-26 05:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-26 05:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-26 05:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-12-26 05:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-12-26 05:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-26 05:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-26 05:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-12-26 06:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-12-26 06:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-12-26 06:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-12-26 06:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2024-12-26 06:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-12-26 06:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-12-26 06:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2024-12-26 06:59:30 +0000"
     },
     "done": true
   },

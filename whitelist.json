@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "uuid": "ccb61af9-4dd0-4094-9e9b-1ebfea1710aa",
+    "name": "zMike_"
+  },
+  {
+    "uuid": "46bf16ac-d38e-4200-b614-d3fb589806f4",
+    "name": "OracleLSTV"
+  },
+  {
+    "uuid": "1f52d9f6-05ee-4371-b98f-e687c5d0b1be",
+    "name": "TardSiren"
+  },
+  {
+    "uuid": "2c425beb-b0d5-469b-a6c0-4eaf617422ea",
+    "name": "voidnero"
+  },
+  {
+    "uuid": "62abd9fb-efb7-4a99-80ce-565ca69c9aaa",
+    "name": "IntergFrog"
+  }
+]
