@@ -8,8 +8,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_birch_forest": "2024-12-26 04:13:34 +0000",
+      "minecraft:dark_forest": "2024-12-26 04:17:30 +0000",
       "minecraft:forest": "2024-12-26 04:16:23 +0000",
       "minecraft:taiga": "2024-12-26 04:13:52 +0000",
+      "minecraft:cherry_grove": "2024-12-26 04:19:54 +0000",
+      "minecraft:sunflower_plains": "2024-12-26 04:21:25 +0000",
       "minecraft:meadow": "2024-12-26 04:13:49 +0000",
       "minecraft:birch_forest": "2024-12-26 04:13:45 +0000",
       "minecraft:pale_garden": "2024-12-26 04:13:47 +0000"
