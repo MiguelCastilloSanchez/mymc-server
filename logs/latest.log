@@ -1,93 +1,127 @@
-[04:31:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:31:54] [ServerMain/INFO]: Loaded 1370 recipes
-[04:31:54] [ServerMain/INFO]: Loaded 1481 advancements
-[04:31:54] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[04:31:54] [Server thread/INFO]: Loading properties
-[04:31:54] [Server thread/INFO]: Default game type: SURVIVAL
-[04:31:54] [Server thread/INFO]: Generating keypair
-[04:31:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:31:55] [Server thread/INFO]: Using epoll channel type
-[04:31:55] [Server thread/INFO]: Preparing level "world"
-[04:31:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:32:06] [Server thread/INFO]: Time elapsed: 10586 ms
-[04:32:06] [Server thread/INFO]: Done (11.044s)! For help, type "help"
-[04:32:16] [User Authenticator #1/INFO]: UUID of player TardSiren is 1f52d9f6-05ee-4371-b98f-e687c5d0b1be
-[04:32:16] [Server thread/INFO]: Disconnecting TardSiren (/47.161.218.188:64463): You are not white-listed on this server!
-[04:32:16] [Server thread/INFO]: TardSiren (/47.161.218.188:64463) lost connection: You are not white-listed on this server!
-[04:32:16] [Server thread/WARN]: handleDisconnection() called twice
-[04:32:20] [User Authenticator #2/INFO]: UUID of player OracleLSTV is 46bf16ac-d38e-4200-b614-d3fb589806f4
-[04:32:20] [Server thread/INFO]: Disconnecting OracleLSTV (/98.4.231.41:52886): You are not white-listed on this server!
-[04:32:20] [Server thread/INFO]: OracleLSTV (/98.4.231.41:52886) lost connection: You are not white-listed on this server!
-[04:32:20] [Server thread/WARN]: handleDisconnection() called twice
-[04:32:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[04:32:30] [Server thread/INFO]: white whitelist add TardSiren<--[HERE]
-[04:32:53] [Server thread/INFO]: Added TardSiren to the whitelist
-[04:33:01] [Server thread/INFO]: Added OracleLSTV to the whitelist
-[04:33:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:33:10] [User Authenticator #3/INFO]: UUID of player OracleLSTV is 46bf16ac-d38e-4200-b614-d3fb589806f4
-[04:33:11] [Server thread/INFO]: OracleLSTV[/98.4.231.41:52903] logged in with entity id 29 at (-122.49022662541681, 127.0, -358.89688170558)
-[04:33:11] [Server thread/INFO]: OracleLSTV joined the game
-[04:33:15] [User Authenticator #4/INFO]: UUID of player TardSiren is 1f52d9f6-05ee-4371-b98f-e687c5d0b1be
-[04:33:16] [Server thread/INFO]: TardSiren[/47.161.218.188:64487] logged in with entity id 143 at (-3411.696915583193, 51.822778569578006, 359.59618602211117)
-[04:33:16] [Server thread/INFO]: TardSiren joined the game
-[04:33:26] [Server thread/INFO]: Incorrect argument for command
-[04:33:26] [Server thread/INFO]: whitelist whitelist add IntergFrog<--[HERE]
-[04:33:34] [Server thread/INFO]: Added IntergFrog to the whitelist
-[04:33:38] [User Authenticator #5/INFO]: UUID of player IntergFrog is 62abd9fb-efb7-4a99-80ce-565ca69c9aaa
-[04:33:38] [Server thread/INFO]: IntergFrog[/24.208.128.4:54098] logged in with entity id 396 at (-3414.9434889763347, 63.0, 349.30000001192093)
-[04:33:38] [Server thread/INFO]: IntergFrog joined the game
-[04:33:46] [Server thread/INFO]: Added voidnero to the whitelist
-[04:34:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5239ms or 104 ticks behind
-[04:34:15] [Server thread/WARN]: Failed to update secure chat state for OracleLSTV: 'Chat disabled due to missing profile public key. Please try reconnecting.'
-[04:34:21] [Server thread/INFO]: <OracleLSTV> wtf was that lag
-[04:34:55] [User Authenticator #6/INFO]: UUID of player zMike_ is ccb61af9-4dd0-4094-9e9b-1ebfea1710aa
-[04:34:56] [Server thread/INFO]: zMike_[/187.147.221.191:60890] logged in with entity id 753 at (-180.6850299226274, 137.0, -479.30000001192093)
-[04:34:56] [Server thread/INFO]: zMike_ joined the game
-[04:34:59] [Server thread/INFO]: <OracleLSTV> idek if it's him, he's not online and he's not in the 2 friend servers he hangs out in
-[04:38:16] [Server thread/INFO]: <zMike_> -100 -500
-[04:41:48] [Server thread/INFO]: <OracleLSTV> 2 of them visited my house
-[04:43:06] [Server thread/WARN]: zMike_ moved too quickly! -7.031314073089021,0.5764407054569745,7.489462952343899
-[04:43:06] [Server thread/WARN]: IntergFrog moved too quickly! 8.374601381661705,1.0,-5.8528704618279335
-[04:43:06] [Server thread/WARN]: TardSiren moved too quickly! 6.45863116230521,2.249187078744683,-7.449364047116944
-[04:43:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3207ms or 64 ticks behind
-[04:46:03] [Server thread/INFO]: <OracleLSTV> savanna?
-[04:48:05] [Server thread/WARN]: zMike_ moved too quickly! 7.174727071983497,0.6212968405392019,-7.236904037915792
-[04:48:05] [Server thread/WARN]: IntergFrog moved too quickly! 9.970230342461491,0.5870907195829886,-2.3727437190174214
-[04:48:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[04:48:17] [Server thread/INFO]: * zMike_ was slain by KYS_FAGGOT
-[04:48:35] [Server thread/INFO]: <OracleLSTV> same as the old boss
-[04:49:52] [Server thread/WARN]: TardSiren moved too quickly! 9.691585381397772,1.0,-2.82844258607048
-[04:50:22] [Server thread/INFO]: zMike_ fell from a high place
-[04:50:25] [Server thread/INFO]: <OracleLSTV> L
-[04:51:08] [Server thread/INFO]: TardSiren has made the advancement [Best Friends Forever]
-[04:51:52] [Server thread/INFO]: <OracleLSTV> frog's being a racist
-[04:53:11] [Server thread/INFO]: <OracleLSTV> uh
-[04:53:17] [Server thread/INFO]: <zMike_> ???
-[04:53:22] [Server thread/INFO]: <OracleLSTV> what frog said
-[04:53:30] [Server thread/INFO]: <zMike_> what the frog doin
-[04:54:41] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[00:26:46] [Server thread/INFO]: voidnero has made the advancement [Sweet Dreams]
+[00:32:07] [Server thread/INFO]: voidnero lost connection: Disconnected
+[00:32:07] [Server thread/INFO]: voidnero left the game
+[00:33:07] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:32:34] [User Authenticator #30/INFO]: UUID of player IntergFrog is 62abd9fb-efb7-4a99-80ce-565ca69c9aaa
+[01:32:34] [Server thread/INFO]: IntergFrog[/24.208.128.4:53892] logged in with entity id 388363 at (98.1927453609741, 143.0, -636.4064762074215)
+[01:32:34] [Server thread/INFO]: IntergFrog joined the game
+[02:10:30] [Server thread/INFO]: IntergFrog lost connection: Disconnected
+[02:10:30] [Server thread/INFO]: IntergFrog left the game
+[02:11:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:44:24] [User Authenticator #31/INFO]: UUID of player TardSiren is 1f52d9f6-05ee-4371-b98f-e687c5d0b1be
+[02:44:25] [Server thread/INFO]: TardSiren[/47.161.218.188:50962] logged in with entity id 396397 at (-146.54468312467375, 124.5, -477.3112887945102)
+[02:44:25] [Server thread/INFO]: TardSiren joined the game
+[02:46:15] [Server thread/INFO]: TardSiren lost connection: Disconnected
+[02:46:15] [Server thread/INFO]: TardSiren left the game
+[02:47:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:45:36] [User Authenticator #32/INFO]: UUID of player TardSiren is 1f52d9f6-05ee-4371-b98f-e687c5d0b1be
+[04:45:37] [Server thread/INFO]: TardSiren[/47.161.218.188:54878] logged in with entity id 396998 at (-151.693128465942, 112.0, -448.57122921612057)
+[04:45:37] [Server thread/INFO]: TardSiren joined the game
+[04:46:50] [User Authenticator #33/INFO]: UUID of player OracleLSTV is 46bf16ac-d38e-4200-b614-d3fb589806f4
+[04:46:50] [Server thread/INFO]: OracleLSTV[/98.4.231.41:50609] logged in with entity id 397377 at (-93.32787797273247, 135.0625, -370.1742807832039)
+[04:46:50] [Server thread/INFO]: OracleLSTV joined the game
+[04:47:06] [Server thread/WARN]: Failed to update secure chat state for OracleLSTV: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[04:47:10] [Server thread/INFO]: <OracleLSTV> maybe
+[04:48:33] [Server thread/INFO]: <OracleLSTV> just need to make some armor
+[04:48:44] [Server thread/INFO]: <OracleLSTV> alright
+[04:50:59] [Server thread/INFO]: OracleLSTV has made the advancement [Cover Me with Diamonds]
+[04:51:06] [Server thread/INFO]: <OracleLSTV> just iron is fine
+[04:54:55] [Server thread/INFO]: <OracleLSTV> tater
+[04:55:19] [Server thread/INFO]: <OracleLSTV> tater
+[04:56:22] [Server thread/INFO]: <OracleLSTV> I can probably look up a table of it
+[04:59:06] [Server thread/INFO]: <OracleLSTV> damn, spectral arrows
+[04:59:28] [Server thread/INFO]: OracleLSTV has made the advancement [Who is Cutting Onions?]
+[05:06:29] [Server thread/INFO]: <OracleLSTV> nah
+[05:06:47] [Server thread/INFO]: <OracleLSTV> I was mining glowstone and I've already lost sight of you
+[05:08:32] [Server thread/INFO]: <OracleLSTV> I think so?
+[05:11:17] [Server thread/INFO]: TardSiren has made the advancement [A Terrible Fortress]
+[05:11:28] [Server thread/INFO]: OracleLSTV has made the advancement [A Terrible Fortress]
+[05:11:54] [Server thread/INFO]: TardSiren has made the advancement [Into Fire]
+[05:12:02] [User Authenticator #34/INFO]: UUID of player Butterbooooi is 0a79cc09-c4bb-466c-8bf1-f5d36a6a6b48
+[05:12:03] [Server thread/INFO]: Butterbooooi[/72.198.76.207:50758] logged in with entity id 402807 at (-20.691344647918832, 72.0, -542.9949278554229)
+[05:12:03] [Server thread/INFO]: Butterbooooi joined the game
+[05:12:31] [Server thread/INFO]: OracleLSTV has made the advancement [Into Fire]
+[05:14:52] [Server thread/INFO]: Butterbooooi lost connection: Disconnected
+[05:14:52] [Server thread/INFO]: Butterbooooi left the game
+[05:15:39] [Server thread/INFO]: <OracleLSTV> 1
+[05:15:57] [Server thread/INFO]: <OracleLSTV> nah just protection
+[05:16:29] [Server thread/INFO]: <OracleLSTV> yeah
+[05:17:52] [Server thread/INFO]: <OracleLSTV> they still charge BO2 for $60 and it's 12 years old
+[05:19:13] [Server thread/INFO]: <OracleLSTV> yeah
+[05:20:39] [Server thread/INFO]: <OracleLSTV> that boner gave me aids
+[05:21:00] [Server thread/INFO]: <OracleLSTV> shit
+[05:21:11] [Server thread/INFO]: <OracleLSTV> it's okay
+[05:21:16] [Server thread/INFO]: <OracleLSTV> good
+[05:21:21] [Server thread/INFO]: <OracleLSTV> the best
+[05:21:36] [Server thread/INFO]: <OracleLSTV> 2 and off the record have co-op so you might like that
+[05:22:18] [Server thread/INFO]: <OracleLSTV> some snacks, some clothes, some practical stuff, and a stack of manga
+[05:22:33] [Server thread/INFO]: <OracleLSTV> higehiro
+[05:23:17] [Server thread/INFO]: OracleLSTV has made the advancement [Spooky Scary Skeleton]
+[05:23:27] [Server thread/INFO]: <OracleLSTV> I got head
+[05:23:48] [Server thread/INFO]: <OracleLSTV> think we need to go to a bastion for that
+[05:25:43] [User Authenticator #35/INFO]: UUID of player zMike_ is ccb61af9-4dd0-4094-9e9b-1ebfea1710aa
+[05:25:44] [Server thread/INFO]: zMike_[/187.147.221.191:65514] logged in with entity id 405075 at (-87.79636965214009, 68.0, -536.2107740306556)
+[05:25:44] [Server thread/INFO]: zMike_ joined the game
+[05:27:03] [Server thread/INFO]: <OracleLSTV> one of us pissed off a tall black man
+[05:29:12] [Server thread/INFO]: <OracleLSTV> I pay my parents $150 a week to help us pay for taxes
+[05:30:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-39, y=50, z=384} ji{x=-39, y=53, z=383}
+[05:35:41] [Server thread/INFO]: TardSiren lost connection: Disconnected
+[05:35:41] [Server thread/INFO]: TardSiren left the game
+[05:35:47] [User Authenticator #36/INFO]: UUID of player TardSiren is 1f52d9f6-05ee-4371-b98f-e687c5d0b1be
+[05:35:48] [Server thread/INFO]: TardSiren[/47.161.218.188:56440] logged in with entity id 410287 at (-159.44286571525174, 119.0, -446.1588174289339)
+[05:35:48] [Server thread/INFO]: TardSiren joined the game
+[05:36:30] [Server thread/INFO]: OracleLSTV has reached the goal [Sky's the Limit]
+[05:36:46] [Server thread/INFO]: <OracleLSTV> yeah
+[05:37:28] [Server thread/INFO]: <OracleLSTV> yeah
+[05:37:31] [Server thread/INFO]: <OracleLSTV> no
+[05:38:05] [User Authenticator #37/INFO]: UUID of player Butterbooooi is 0a79cc09-c4bb-466c-8bf1-f5d36a6a6b48
+[05:38:06] [Server thread/INFO]: Butterbooooi[/72.198.76.207:51147] logged in with entity id 410992 at (-23.51343696016566, 72.0, -542.1358340257087)
+[05:38:06] [Server thread/INFO]: Butterbooooi joined the game
+[05:41:50] [Server thread/INFO]: <OracleLSTV> a what
+[05:41:54] [Server thread/INFO]: <OracleLSTV> no
+[05:42:13] [Server thread/INFO]: <OracleLSTV> brb bathroom
+[05:43:23] [Server thread/INFO]: OracleLSTV lost connection: Disconnected
+[05:43:23] [Server thread/INFO]: OracleLSTV left the game
+[05:49:50] [Server thread/INFO]: zMike_ lost connection: Disconnected
+[05:49:50] [Server thread/INFO]: zMike_ left the game
+[05:51:31] [User Authenticator #38/INFO]: UUID of player zMike_ is ccb61af9-4dd0-4094-9e9b-1ebfea1710aa
+[05:51:31] [Server thread/INFO]: zMike_[/187.147.221.191:49247] logged in with entity id 414892 at (-116.2281991892943, 69.0, -544.6999999880791)
+[05:51:31] [Server thread/INFO]: zMike_ joined the game
+[05:51:34] [Server thread/INFO]: zMike_ lost connection: Disconnected
+[05:51:34] [Server thread/INFO]: zMike_ left the game
+[05:53:11] [User Authenticator #39/INFO]: UUID of player zMike_ is ccb61af9-4dd0-4094-9e9b-1ebfea1710aa
+[05:53:12] [Server thread/INFO]: zMike_[/187.147.221.191:49264] logged in with entity id 415084 at (-116.2281991892943, 69.0, -544.6999999880791)
+[05:53:12] [Server thread/INFO]: zMike_ joined the game
+[05:53:13] [User Authenticator #40/INFO]: UUID of player IntergFrog is 62abd9fb-efb7-4a99-80ce-565ca69c9aaa
+[05:53:13] [Server thread/INFO]: IntergFrog[/24.208.128.4:55721] logged in with entity id 415117 at (42.85823881495999, 145.0, -635.6265689071836)
+[05:53:13] [Server thread/INFO]: IntergFrog joined the game
+[05:54:23] [Server thread/INFO]: IntergFrog has made the advancement [Cover Me with Diamonds]
+[06:01:01] [Server thread/INFO]: <TardSiren> -9 59 -62
+[06:03:34] [User Authenticator #41/INFO]: UUID of player OracleLSTV is 46bf16ac-d38e-4200-b614-d3fb589806f4
+[06:03:34] [Server thread/INFO]: OracleLSTV[/98.4.231.41:51038] logged in with entity id 424143 at (-93.46023892108907, 135.0625, -370.70156232733984)
+[06:03:34] [Server thread/INFO]: OracleLSTV joined the game
+[06:04:06] [Server thread/WARN]: Failed to update secure chat state for OracleLSTV: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[06:04:09] [Server thread/INFO]: <zMike_> OracleLGBT
+[06:04:11] [Server thread/INFO]: <OracleLSTV> lol shroomz TV
+[06:05:06] [Server thread/INFO]: <OracleLSTV> does it swallow?
+[06:05:37] [Server thread/INFO]: <OracleLSTV> what
+[06:06:25] [Server thread/INFO]: <OracleLSTV> it's basically japanese comics
+[06:07:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-108, y=41, z=-155} ji{x=-107, y=43, z=-152}
+[06:07:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-108, y=41, z=-155} ji{x=-107, y=43, z=-152}
+[06:07:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-108, y=41, z=-155} ji{x=-107, y=43, z=-152}
+[06:07:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-108, y=41, z=-155} ji{x=-107, y=43, z=-152}
+[06:07:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-108, y=41, z=-155} ji{x=-107, y=43, z=-152}
+[06:07:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-108, y=41, z=-155} ji{x=-107, y=43, z=-152}
+[06:07:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-108, y=41, z=-155} ji{x=-107, y=43, z=-152}
+[06:07:37] [Server thread/INFO]: <OracleLSTV> fuck no
+[06:07:53] [Server thread/INFO]: <OracleLSTV> I'm not under 13
+[06:08:18] [Server thread/INFO]: <Butterbooooi> kneegrow
+[06:08:40] [Server thread/INFO]: <OracleLSTV> you can't leave us hanging
+[06:09:11] [Server thread/INFO]: <zMike_> hang h
+[06:22:18] [Server thread/INFO]: Butterbooooi lost connection: Disconnected
+[06:22:18] [Server thread/INFO]: Butterbooooi left the game
+[06:24:44] [Server thread/INFO]: <OracleLSTV> subjectively probably revelations, objectively probably der eisendrache
+[06:26:58] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
 	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
@@ -126,205 +160,456 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[04:58:50] [Server thread/INFO]: <zMike_> ZZZZ
-[04:59:28] [Server thread/INFO]: <OracleLSTV> melpert
-[04:59:36] [Server thread/INFO]: <zMike_> nate
-[04:59:47] [Server thread/INFO]: <OracleLSTV> I know what you're insinuating mike
-[04:59:54] [Server thread/INFO]: <OracleLSTV> nate higgers
-[05:00:04] [Server thread/INFO]: <OracleLSTV> IT WAS YOUR IDEA
-[05:02:41] [Server thread/INFO]: <zMike_> 7give TardSiren minecraft:smile 64
-[05:02:56] [Server thread/INFO]: <OracleLSTV> bro's on that funky sauce
-[05:03:30] [Server thread/INFO]: TardSiren has made the advancement [Cover Me with Diamonds]
-[05:03:39] [Server thread/INFO]: <zMike_> cover me with cum
-[05:04:16] [Server thread/INFO]: TardSiren has made the advancement [Crafting a New Look]
-[05:05:45] [Server thread/INFO]: IntergFrog has made the advancement [Suit Up]
-[05:07:03] [Server thread/INFO]: <OracleLSTV> anyone got spare dirt?
-[05:07:18] [Server thread/INFO]: <OracleLSTV> that'll do
-[05:07:52] [Server thread/INFO]: <OracleLSTV> thank
-[05:08:01] [Server thread/INFO]: <OracleLSTV> offhand
-[05:08:10] [Server thread/INFO]: <OracleLSTV> texture pack
-[05:09:39] [Server thread/INFO]: <OracleLSTV> sure
-[05:10:29] [Server thread/INFO]: <OracleLSTV> squatter
-[05:11:44] [Server thread/INFO]: <OracleLSTV> alright
-[05:12:00] [Server thread/INFO]: <OracleLSTV> the MC experience
-[05:12:23] [Server thread/INFO]: <OracleLSTV> yeah prob
-[05:12:29] [Server thread/INFO]: <OracleLSTV> yeah
-[05:14:04] [Server thread/INFO]: <OracleLSTV> my frames seem fine, though I limited my FPS
-[05:14:10] [Server thread/INFO]: <OracleLSTV> 150
-[05:14:20] [Server thread/INFO]: <OracleLSTV> yeah
-[05:15:10] [Server thread/INFO]: <OracleLSTV> I got 53 torch
-[05:15:24] [Server thread/INFO]: TardSiren lost connection: Disconnected
-[05:15:24] [Server thread/INFO]: TardSiren left the game
-[05:16:50] [User Authenticator #7/INFO]: UUID of player TardSiren is 1f52d9f6-05ee-4371-b98f-e687c5d0b1be
-[05:16:51] [Server thread/INFO]: TardSiren[/47.161.218.188:49390] logged in with entity id 21867 at (-157.5671270246371, 124.0, -467.1859848684163)
-[05:16:51] [Server thread/INFO]: TardSiren joined the game
-[05:18:33] [Server thread/INFO]: <OracleLSTV> you been in there yet?
-[05:20:37] [Server thread/INFO]: <OracleLSTV> now I'm doing the ladder thing
-[05:21:57] [Server thread/INFO]: <OracleLSTV> sodium
-[05:22:08] [Server thread/INFO]: <OracleLSTV> I couldn't get OF working on this version
-[05:22:15] [Server thread/INFO]: <OracleLSTV> my shit kept crashing
-[05:23:22] [Server thread/INFO]: <OracleLSTV> gotta destroy it by breaking the heart it's connected to on a tree
-[05:23:46] [Server thread/INFO]: <OracleLSTV> kinda?
-[05:23:51] [Server thread/INFO]: <OracleLSTV> more light gray
-[05:24:20] [Server thread/INFO]: <OracleLSTV> we've been rused
-[05:25:00] [Server thread/INFO]: <OracleLSTV> I'm a simple man
-[05:25:43] [Server thread/INFO]: <OracleLSTV> terrorist
-[05:25:57] [Server thread/INFO]: <OracleLSTV> laba
-[05:27:33] [Server thread/INFO]: zMike_ has made the advancement [Best Friends Forever]
-[05:28:14] [Server thread/INFO]: <OracleLSTV> coal
-[05:29:00] [Server thread/INFO]: <OracleLSTV> one's just in the dark
-[05:30:10] [Server thread/INFO]: <OracleLSTV> finally getting a use out of this bundle I'm lugging around
-[05:30:22] [Server thread/INFO]: <OracleLSTV> yeah I got a bunch of small items
-[05:32:27] [Server thread/INFO]: <zMike_> asd
-[05:32:30] [Server thread/INFO]: <OracleLSTV> ^
-[05:32:37] [Server thread/INFO]: TardSiren lost connection: Timed out
-[05:32:37] [Server thread/INFO]: TardSiren left the game
-[05:32:37] [Server thread/WARN]: handleDisconnection() called twice
-[05:32:43] [Server thread/INFO]: zMike_ lost connection: Disconnected
-[05:32:43] [Server thread/INFO]: zMike_ left the game
-[05:32:46] [User Authenticator #8/INFO]: UUID of player TardSiren is 1f52d9f6-05ee-4371-b98f-e687c5d0b1be
-[05:32:46] [User Authenticator #9/INFO]: UUID of player zMike_ is ccb61af9-4dd0-4094-9e9b-1ebfea1710aa
-[05:32:46] [Server thread/INFO]: TardSiren[/47.161.218.188:49796] logged in with entity id 29836 at (52.45435558237779, 82.0, 196.27056034045071)
-[05:32:46] [Server thread/INFO]: TardSiren joined the game
-[05:32:47] [Server thread/INFO]: zMike_[/187.147.221.191:61099] logged in with entity id 29840 at (-36.66791127267852, 137.34375002384186, -611.8135192444539)
-[05:32:47] [Server thread/INFO]: zMike_ joined the game
-[05:34:19] [Server thread/INFO]: <OracleLSTV> imagine if frog got the green top
-[05:35:13] [Server thread/INFO]: <OracleLSTV> can lead them if you stick them in boats I think?
-[05:35:41] [Server thread/INFO]: <OracleLSTV> slabs work too iirc
-[05:38:37] [Server thread/INFO]: <OracleLSTV> creeper was so gobsmacked he didn't try and explode
-[05:40:42] [Server thread/INFO]: <OracleLSTV> the cum cave
-[05:41:41] [Server thread/INFO]: <OracleLSTV> maybe not here
-[05:43:43] [Server thread/INFO]: <OracleLSTV> CIA squid
-[05:45:04] [Server thread/INFO]: OracleLSTV has made the advancement [Sneak 100]
-[05:51:37] [Server thread/INFO]: <OracleLSTV> cock deep underground
-[05:52:26] [Server thread/WARN]: TardSiren moved too quickly! 8.6236355133951,-0.7567592881772605,-5.27911172830153
-[05:53:16] [Server thread/INFO]: <OracleLSTV> I got raw cock in my hand siren
-[05:53:41] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=88, y=150, z=-629} ji{x=87, y=149, z=-629}
-[05:53:47] [Server thread/INFO]: <OracleLSTV> ate cock
-[05:55:30] [Server thread/INFO]: <OracleLSTV> my ex thought the charger said googoo gaga
-[05:55:42] [Server thread/INFO]: <zMike_> I was the ex
-[05:55:52] [Server thread/INFO]: <OracleLSTV> it was a guy yeah
-[05:56:15] [Server thread/INFO]: <OracleLSTV> my love for him supercedes sexual orientation
-[05:56:39] [Server thread/INFO]: <OracleLSTV> 5
-[05:56:56] [Server thread/INFO]: <zMike_> sexual orientation is overrated asf
-[05:58:39] [Server thread/INFO]: <zMike_> cuck needs shining ores
-[06:01:59] [Server thread/INFO]: <OracleLSTV> he poop
-[06:03:07] [Server thread/INFO]: <OracleLSTV> fagcave
-[06:03:59] [Server thread/INFO]: zMike_ has made the advancement [What a Deal!]
-[06:04:10] [Server thread/INFO]: <OracleLSTV> gavel........
-[06:04:40] [Server thread/INFO]: <OracleLSTV> gavel
-[06:05:05] [Server thread/INFO]: <OracleLSTV> running low on torches
-[06:05:38] [Server thread/INFO]: <OracleLSTV> cave sound
-[06:05:52] [Server thread/INFO]: <OracleLSTV> gavel
-[06:06:07] [Server thread/INFO]: <zMike_> gaben
-[06:06:13] [Server thread/INFO]: <OracleLSTV> gay bin
-[06:08:02] [Server thread/INFO]: <OracleLSTV> 22 blocks
-[06:09:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=111, y=64, z=-112} ji{x=112, y=62, z=-113}
-[06:09:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=111, y=64, z=-112} ji{x=112, y=62, z=-113}
-[06:09:49] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=116, y=64, z=-122} ji{x=114, y=62, z=-121}
-[06:09:49] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=116, y=64, z=-122} ji{x=114, y=62, z=-121}
-[06:10:00] [Server thread/INFO]: <OracleLSTV> it's lagging
-[06:10:41] [Server thread/INFO]: <OracleLSTV> my axe broke
-[06:11:05] [Server thread/INFO]: TardSiren lost connection: Timed out
-[06:11:05] [Server thread/INFO]: TardSiren left the game
-[06:11:16] [User Authenticator #10/INFO]: UUID of player TardSiren is 1f52d9f6-05ee-4371-b98f-e687c5d0b1be
-[06:11:17] [Server thread/INFO]: TardSiren[/47.161.218.188:50754] logged in with entity id 50468 at (270.10542435606277, -13.0, 119.57070632470547)
-[06:11:17] [Server thread/INFO]: TardSiren joined the game
-[06:12:37] [Server thread/INFO]: <OracleLSTV> had someone do that in a call before last new years
-[06:12:54] [Server thread/INFO]: <OracleLSTV> friend invited some weirdo into our server
-[06:13:03] [Server thread/INFO]: <OracleLSTV> he said bazinga when he came, I shit you not
-[06:13:34] [Server thread/INFO]: <OracleLSTV> his little brother walked in and got mad at him
-[06:13:49] [Server thread/INFO]: <OracleLSTV> my friend and I were playing RE6 and I was downing a bottle of wine
-[06:14:58] [Server thread/INFO]: <OracleLSTV> yes
-[06:18:04] [Server thread/INFO]: <OracleLSTV> he did though
-[06:18:14] [Server thread/INFO]: <OracleLSTV> no we just all fucking knew it
-[06:18:30] [Server thread/INFO]: <OracleLSTV> because he was thirsting after my femboy friend
-[06:18:44] [Server thread/INFO]: <zMike_> average l4d2 player
-[06:18:47] [Server thread/INFO]: <OracleLSTV> ^
-[06:20:06] [Server thread/INFO]: <OracleLSTV> kinda?
-[06:20:45] [Server thread/INFO]: <OracleLSTV> that bat flew through the lava fall
-[06:21:35] [Server thread/INFO]: <OracleLSTV> 42
-[06:22:32] [Server thread/INFO]: <zMike_> basinga
-[06:24:04] [Server thread/INFO]: <zMike_> asd
-[06:24:08] [Server thread/INFO]: zMike_ lost connection: Disconnected
-[06:24:08] [Server thread/INFO]: zMike_ left the game
-[06:24:11] [User Authenticator #11/INFO]: UUID of player zMike_ is ccb61af9-4dd0-4094-9e9b-1ebfea1710aa
-[06:24:11] [Server thread/INFO]: zMike_[/187.147.221.191:61371] logged in with entity id 55587 at (-41.39703690624773, 139.0, -623.9222469715384)
-[06:24:12] [Server thread/INFO]: zMike_ joined the game
-[06:24:57] [Server thread/INFO]: <OracleLSTV> I'm anything but feminine
-[06:25:04] [Server thread/INFO]: <zMike_> A N
-[06:25:07] [Server thread/INFO]: <OracleLSTV> I don't use snapcrap
-[06:25:13] [Server thread/INFO]: <zMike_> snapcuck
-[06:25:40] [Server thread/INFO]: <OracleLSTV> 57
-[06:28:41] [Server thread/INFO]: <OracleLSTV> I actually need some obby for a table
-[06:28:48] [Server thread/INFO]: <OracleLSTV> obsidian
-[06:28:57] [Server thread/INFO]: <zMike_> some fatty
-[06:28:59] [Server thread/INFO]: <OracleLSTV> cat can have a little slommy
-[06:29:38] [Server thread/INFO]: OracleLSTV has made the advancement [Ice Bucket Challenge]
-[06:30:37] [Server thread/INFO]: <OracleLSTV> laba
-[06:30:47] [Server thread/INFO]: <OracleLSTV> no gavel yet
-[06:32:06] [Server thread/INFO]: <OracleLSTV> same thing to me because I hate both
-[06:32:56] [Server thread/INFO]: Villager coj['Librarian'/55617, l='ServerLevel[world]', x=-188.70, y=137.00, z=-714.30] died, message: 'Librarian was slain by zMike_'
-[06:33:39] [Server thread/INFO]: <OracleLSTV> yeah
-[06:33:58] [Server thread/INFO]: <OracleLSTV> arguably worse
-[06:34:09] [Server thread/INFO]: <OracleLSTV> fucking delusional
-[06:34:36] [Server thread/INFO]: <OracleLSTV> roblox
-[06:36:53] [Server thread/INFO]: <OracleLSTV> 88 diamond ore
-[06:37:31] [Server thread/INFO]: <zMike_> bro's mining for three generations
-[06:38:48] [Server thread/INFO]: <OracleLSTV> it on the ground
-[06:39:22] [Server thread/INFO]: <OracleLSTV> disable safety measures
-[06:39:26] [Server thread/INFO]: <zMike_> jarvis i can't breath
-[06:39:49] [Server thread/INFO]: <OracleLSTV> I no longer need to breathe
-[06:42:54] [Server thread/WARN]: TardSiren moved too quickly! -7.7213773286989635,5.418664007774831,-3.813888160454752
-[06:43:15] [Server thread/INFO]: <OracleLSTV> miner orgy
-[06:43:36] [Server thread/INFO]: <OracleLSTV> only in ohio
-[06:45:00] [Server thread/INFO]: <OracleLSTV> nole messaged me saying to get a slave to open piston doors
-[06:46:06] [Server thread/INFO]: <OracleLSTV> 106
-[06:46:26] [Server thread/INFO]: <OracleLSTV> emerald
-[06:49:26] [Server thread/INFO]: <OracleLSTV> sexp
-[06:50:10] [Server thread/INFO]: <zMike_> -100 -500
-[06:50:39] [Server thread/INFO]: <TardSiren> save?
-[06:50:47] [Server thread/INFO]: <OracleLSTV> sure
-[06:52:33] [Server thread/INFO]: <zMike_> oracel
-[06:52:36] [Server thread/INFO]: <OracleLSTV> ?
-[06:53:05] [Server thread/INFO]: <OracleLSTV> daylight sensor?
-[06:54:52] [Server thread/INFO]: <OracleLSTV> other mountain
-[06:55:50] [Server thread/INFO]: <zMike_> slep
-[06:56:06] [Server thread/INFO]: <zMike_> l4d2 but no peruvians
-[06:56:56] [Server thread/INFO]: <OracleLSTV> PHANTOMS
-[06:57:01] [Server thread/INFO]: <zMike_> fantoms
-[06:57:22] [Server thread/INFO]: <zMike_> GET OUT
-[06:58:11] [Server thread/INFO]: <OracleLSTV> knew this shit was gonna happen
-[06:59:17] [Server thread/INFO]: <OracleLSTV> we got the other ores
-[06:59:29] [Server thread/INFO]: <OracleLSTV> 31
-[06:59:36] [Server thread/INFO]: <OracleLSTV> gold
-[06:59:43] [Server thread/INFO]: <OracleLSTV> yeah
-[07:01:05] [Server thread/INFO]: zMike_ fell from a high place
-[07:01:08] [Server thread/INFO]: <OracleLSTV> L
-[07:01:39] [Server thread/INFO]: <OracleLSTV> can I keep the sword then?
-[07:02:26] [Server thread/INFO]: OracleLSTV has made the advancement [Enchanter]
-[07:02:53] [Server thread/INFO]: <OracleLSTV> you think I should rerolls sharpness 3?
-[07:03:28] [Server thread/INFO]: <OracleLSTV> then I'm at 29
-[07:03:35] [Server thread/INFO]: <OracleLSTV> I was
-[07:03:39] [Server thread/INFO]: <OracleLSTV> yeah
-[07:04:22] [Server thread/INFO]: <OracleLSTV> fucking bane of arthropods 4
-[07:04:35] [Server thread/INFO]: <OracleLSTV> sure
-[07:05:02] [Server thread/INFO]: <OracleLSTV> fortune 3 axe
-[07:05:40] [Server thread/INFO]: <OracleLSTV> fortune 3
-[07:05:49] [Server thread/INFO]: <OracleLSTV> both
-[07:05:53] [Server thread/INFO]: <OracleLSTV> redstone
-[07:08:56] [Server thread/INFO]: <OracleLSTV> back at 31
-[07:09:11] [Server thread/INFO]: <OracleLSTV> like 8.5 stacks of redstone
-[07:09:33] [Server thread/INFO]: <OracleLSTV> need some lapis
-[07:10:39] [Server thread/INFO]: <OracleLSTV> I'm full
-[07:15:36] [Server thread/INFO]: <OracleLSTV> bastet potatoes
-[07:15:45] [Server thread/INFO]: <OracleLSTV> salty
-[07:17:28] [Server thread/INFO]: <OracleLSTV> need to take a fat piss
-[07:19:48] [Server thread/INFO]: <OracleLSTV> back
-[07:20:31] [Server thread/INFO]: <OracleLSTV> sure
-[07:20:41] [Server thread/INFO]: <OracleLSTV> I already got plenty of lava for my smelting
-[07:21:22] [Server thread/INFO]: <OracleLSTV> mike's in the closet
-[07:21:29] [Server thread/INFO]: <zMike_> GET OUT
-[07:21:47] [Server thread/INFO]: * zMike_ was slain by George_Floyd_Gaming
-[07:21:50] [Server thread/INFO]: <OracleLSTV> yeah
-[07:22:49] [Server thread/INFO]: <OracleLSTV> you silly billy
+[06:28:08] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:42800) lost connection: Disconnected
+[06:34:08] [Server thread/INFO]: IntergFrog lost connection: Disconnected
+[06:34:08] [Server thread/INFO]: IntergFrog left the game
+[06:35:05] [User Authenticator #42/INFO]: UUID of player Butterbooooi is 0a79cc09-c4bb-466c-8bf1-f5d36a6a6b48
+[06:35:06] [Server thread/INFO]: Butterbooooi[/72.198.76.207:51682] logged in with entity id 447931 at (-21.942633913551248, 72.0, -542.644016712126)
+[06:35:06] [Server thread/INFO]: Butterbooooi joined the game
+[06:37:58] [Server thread/INFO]: TardSiren has made the advancement [Eye Spy]
+[06:38:04] [Server thread/INFO]: TardSiren has made the advancement [The End?]
+[06:45:41] [Server thread/INFO]: <OracleLSTV> do I want what?
+[06:45:45] [Server thread/INFO]: <OracleLSTV> ikr
+[06:45:47] [Server thread/INFO]: <OracleLSTV> sure ig
+[06:47:48] [Server thread/INFO]: <OracleLSTV> white is right butter
+[06:48:24] [Server thread/INFO]: <OracleLSTV> I can't you over mike's beaner ass
+[06:49:09] [Server thread/INFO]: <OracleLSTV> I think you got everything
+[06:51:14] [Server thread/INFO]: <OracleLSTV> he was at the gym earlier
+[06:51:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-65, y=69, z=-449} ji{x=-66, y=68, z=-449}
+[06:51:43] [Server thread/INFO]: <OracleLSTV> badminton?
+[06:51:47] [Server thread/INFO]: <zMike_> pádel
+[06:58:29] [Server thread/INFO]: zMike_ has made the advancement [Take Aim]
+[06:58:34] [Server thread/INFO]: <OracleLSTV> power 5
+[07:01:18] [Server thread/INFO]: Villager coj['Farmer'/449201, l='ServerLevel[world]', x=-62.15, y=70.19, z=-450.89] died, message: 'Farmer was slain by Zombie'
+[07:01:39] [Server thread/INFO]: Villager coj['Librarian'/449202, l='ServerLevel[world]', x=-62.61, y=70.19, z=-448.36] died, message: 'Librarian was slain by Zombie'
+[07:02:23] [Server thread/INFO]: <OracleLSTV> ew phantom
+[07:02:39] [Server thread/INFO]: [zMike_: The difficulty has been set to Hard]
+[07:04:16] [Server thread/INFO]: <OracleLSTV> nah you need some?
+[07:04:47] [Server thread/INFO]: <OracleLSTV> ?
+[07:06:28] [Server thread/INFO]: <OracleLSTV> siren do you have any leather to spare?
+[07:08:34] [Server thread/INFO]: <Butterbooooi> hello
+[07:08:48] [Server thread/INFO]: <Butterbooooi> where is everybody?
+[07:08:51] [Server thread/INFO]: <Butterbooooi> heloooooooooooo
+[07:09:00] [Server thread/INFO]: <OracleLSTV> CA-CAW, CA-CAW, CA-CAW, CA-CAW!
+[07:09:10] [Server thread/INFO]: <Butterbooooi> this is not happening x3
+[07:09:28] [Server thread/INFO]: <OracleLSTV> :P
+[07:09:36] [Server thread/INFO]: <Butterbooooi> i thought that they were supposed to be saving our asses
+[07:09:48] [Server thread/INFO]: <OracleLSTV> thought they were supposed to be wiping our asses
+[07:09:51] [Server thread/INFO]: <Butterbooooi> looks like theres been a change of plans
+[07:09:53] [Server thread/INFO]: <OracleLSTV> looks like there's been a change of pants
+[07:10:32] [Server thread/INFO]: <OracleLSTV> butter's literally grimace shake in skibidi ohio rn
+[07:10:46] [Server thread/INFO]: <OracleLSTV> no
+[07:11:28] [Server thread/INFO]: Butterbooooi has made the advancement [Local Brewery]
+[07:14:52] [Server thread/INFO]: <OracleLSTV> in my chest
+[07:15:01] [Server thread/INFO]: <OracleLSTV> I don't have one
+[07:15:06] [Server thread/INFO]: <OracleLSTV> where
+[07:15:19] [Server thread/INFO]: <OracleLSTV> I don't have silk touch
+[07:16:23] [Server thread/INFO]: <OracleLSTV> you guys always leave your doors open, were you born in a barn?
+[07:16:32] [Server thread/INFO]: <OracleLSTV> mike left mine open
+[07:19:24] [Server thread/INFO]: <OracleLSTV> yeah I work 2nd shift
+[07:19:36] [Server thread/INFO]: <OracleLSTV> like mid afternoon to night
+[07:19:50] [Server thread/INFO]: zMike_ lost connection: Disconnected
+[07:19:50] [Server thread/INFO]: zMike_ left the game
+[07:20:39] [Server thread/INFO]: <OracleLSTV> nah I push shopping carts for a living
+[07:20:48] [Server thread/INFO]: <OracleLSTV> nah it's a regional grocery chain
+[07:20:50] [Server thread/INFO]: <OracleLSTV> new york
+[07:21:14] [Server thread/INFO]: <OracleLSTV> ?
+[07:21:21] [Server thread/INFO]: <OracleLSTV> I like writing
+[07:21:37] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-123, y=60, z=-585} ji{x=-123, y=61, z=-585}
+[07:22:20] [Server thread/INFO]: <OracleLSTV> I've been writing a script for an RPGmaker game I've been working on since like may
+[07:24:06] [Server thread/INFO]: <OracleLSTV> I have 1
+[07:25:45] [Server thread/INFO]: <OracleLSTV> the cleric
+[07:26:41] [Server thread/INFO]: <OracleLSTV> I need to set up a fishing hole now that you mention it
+[07:26:56] [Server thread/INFO]: <OracleLSTV> gonna need a lot of kelp though
+[07:27:03] [Server thread/INFO]: <TardSiren> ^
+[07:30:08] [Server thread/INFO]: <OracleLSTV> not talking about it
+[07:30:17] [Server thread/INFO]: Villager coj['Librarian'/485578, l='ServerLevel[world]', x=-59.88, y=70.19, z=-450.98] died, message: 'Librarian was slain by Zombie'
+[07:30:17] [Server thread/INFO]: <OracleLSTV> yeah
+[07:30:24] [Server thread/INFO]: <OracleLSTV> you'll know when it happens
+[07:30:31] [Server thread/INFO]: <OracleLSTV> no
+[07:30:44] [Server thread/INFO]: <OracleLSTV> in this fucking economy? in the highest income tax state in the country?
+[07:32:40] [Server thread/INFO]: <OracleLSTV> I don't believe so
+[07:40:34] [Server thread/INFO]: <OracleLSTV> not really
+[07:41:03] [Server thread/INFO]: <OracleLSTV> yeah I knew some car people in a friend server I was in
+[07:41:29] [Server thread/INFO]: <OracleLSTV> chlonge
+[07:42:42] [Server thread/INFO]: <TardSiren> tig
+[07:49:24] [Server thread/INFO]: <OracleLSTV> building or fishing
+[07:51:59] [Server thread/INFO]: <OracleLSTV> making a snow farm
+[07:52:40] [Server thread/INFO]: Butterbooooi lost connection: Disconnected
+[07:52:40] [Server thread/INFO]: Butterbooooi left the game
+[07:54:17] [Server thread/INFO]: <OracleLSTV> sure
+[07:54:22] [Server thread/INFO]: <OracleLSTV> yeah
+[07:54:32] [Server thread/INFO]: <OracleLSTV> just make sure you use T7 patch for it because that game's fucked like all the others
+[07:54:48] [Server thread/INFO]: <OracleLSTV> I'll send it
+[07:57:56] [Server thread/INFO]: <OracleLSTV> probably
+[07:58:51] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-100, y=127, z=-384} ji{x=-100, y=126, z=-384}
+[08:00:22] [Server thread/INFO]: <OracleLSTV> neither
+[08:00:31] [Server thread/INFO]: <OracleLSTV> I got a local taco chain, I have zero need for either
+[08:00:58] [Server thread/INFO]: <OracleLSTV> all the local shit here is good
+[08:01:44] [Server thread/INFO]: <OracleLSTV> 308 Negra Arroyo Lane, Albuquerque, New Mexico 87104
+[08:03:33] [Server thread/INFO]: <OracleLSTV> I mean I have mcdonalds like every month or two, that's basically it
+[08:03:50] [Server thread/INFO]: <OracleLSTV> I just don't like any of it
+[08:10:35] [Server thread/INFO]: TardSiren lost connection: Disconnected
+[08:10:35] [Server thread/INFO]: TardSiren left the game
+[08:11:30] [User Authenticator #43/INFO]: UUID of player TardSiren is 1f52d9f6-05ee-4371-b98f-e687c5d0b1be
+[08:11:31] [Server thread/INFO]: TardSiren[/47.161.218.188:61343] logged in with entity id 505746 at (275.37068799246606, -47.15729043673326, 32.13837952050554)
+[08:11:31] [Server thread/INFO]: TardSiren joined the game
+[08:11:36] [Server thread/INFO]: TardSiren fell out of the world
+[08:11:37] [Server thread/INFO]: <OracleLSTV> L
+[08:11:55] [Server thread/INFO]: TardSiren lost connection: Disconnected
+[08:11:55] [Server thread/INFO]: TardSiren left the game
+[08:13:21] [Server thread/INFO]: OracleLSTV lost connection: Disconnected
+[08:13:21] [Server thread/INFO]: OracleLSTV left the game
+[08:14:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[09:24:51] [User Authenticator #44/INFO]: UUID of player OracleLSTV is 46bf16ac-d38e-4200-b614-d3fb589806f4
+[09:24:52] [Server thread/INFO]: OracleLSTV[/98.4.231.41:51750] logged in with entity id 506205 at (-93.45129254122543, 135.0625, -369.5314463293201)
+[09:24:52] [Server thread/INFO]: OracleLSTV joined the game
+[10:18:11] [User Authenticator #45/INFO]: UUID of player TardSiren is 1f52d9f6-05ee-4371-b98f-e687c5d0b1be
+[10:18:12] [Server thread/INFO]: TardSiren[/47.161.218.188:62472] logged in with entity id 514183 at (-157.0721277761609, 119.0, -443.85424910089074)
+[10:18:12] [Server thread/INFO]: TardSiren joined the game
+[10:18:46] [Server thread/INFO]: <TardSiren> oracle? lmfaO
+[10:20:12] [Server thread/INFO]: TardSiren lost connection: Timed out
+[10:20:12] [Server thread/INFO]: TardSiren left the game
+[10:20:27] [User Authenticator #46/INFO]: UUID of player TardSiren is 1f52d9f6-05ee-4371-b98f-e687c5d0b1be
+[10:20:27] [Server thread/INFO]: TardSiren[/47.161.218.188:62254] logged in with entity id 514630 at (-123.21763485847063, 62.0, -538.9591661113445)
+[10:20:27] [Server thread/INFO]: TardSiren joined the game
+[10:20:33] [Server thread/INFO]: <TardSiren> u here?
+[10:29:16] [Server thread/INFO]: <TardSiren> word
+[10:29:20] [Server thread/INFO]: <TardSiren> im getting my shit back
+[10:29:33] [Server thread/INFO]: <TardSiren> i took diamonds from frog lmfao cs he hates this game
+[10:29:42] [Server thread/INFO]: <TardSiren> + we got those
+[10:29:44] [Server thread/WARN]: Failed to update secure chat state for OracleLSTV: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[10:29:55] [Server thread/INFO]: <OracleLSTV> wanna hop in vc again?
+[10:30:05] [Server thread/INFO]: <TardSiren> nah i wann chill
+[10:30:09] [Server thread/INFO]: <OracleLSTV> alright
+[10:30:24] [Server thread/INFO]: <TardSiren> well actually we can but ill be muted
+[10:30:31] [Server thread/INFO]: <OracleLSTV> then there's not really a point
+[10:30:37] [Server thread/INFO]: <TardSiren> word
+[10:33:10] [Server thread/INFO]: <TardSiren> when we both done
+[10:33:19] [Server thread/INFO]: <TardSiren> do u wanna work on villager shit with me
+[10:33:22] [Server thread/INFO]: <OracleLSTV> sure
+[10:33:27] [Server thread/INFO]: <TardSiren> since butter got the mending villager killed
+[10:33:56] [Server thread/INFO]: <TardSiren> im gonna kill myself
+[10:34:05] [Server thread/INFO]: <TardSiren> forgot lapis for enchants
+[10:34:12] [Server thread/INFO]: <OracleLSTV> want me to bring some?
+[10:34:20] [Server thread/INFO]: <TardSiren> if u dont mind
+[10:34:26] [Server thread/INFO]: <TardSiren> u know how to get here?
+[10:34:35] [Server thread/INFO]: <OracleLSTV> I need to figure out where tf that XP farm is anyway
+[10:35:21] [Server thread/INFO]: <TardSiren> go through my nether, then go as if ur going to the other portal but just turn left and ull see a bridge across lava
+[10:35:28] [Server thread/INFO]: <TardSiren> lmk when u get out of the nether
+[10:35:31] [Server thread/INFO]: <OracleLSTV> alr
+[10:36:27] [Server thread/INFO]: <OracleLSTV> how much lapis you think you need?
+[10:36:49] [Server thread/INFO]: <TardSiren> honestly id just bring a good amount of blocks to keep here
+[10:37:01] [Server thread/INFO]: <TardSiren> this is just gonna end up bring where we all enchant
+[10:37:07] [Server thread/INFO]: <TardSiren> being*
+[10:39:22] [Server thread/INFO]: <TardSiren> u need me to show u where to go?
+[10:40:34] [Server thread/INFO]: <OracleLSTV> probably tbh, I'm terrible with directions in this game
+[10:40:53] [Server thread/INFO]: <TardSiren> ok
+[10:41:40] [Server thread/INFO]: OracleLSTV was doomed to fall
+[10:41:42] [Server thread/INFO]: <TardSiren> omw
+[10:41:52] [Server thread/INFO]: <TardSiren> uh
+[10:41:52] [Server thread/INFO]: <OracleLSTV> cool
+[10:41:53] [Server thread/INFO]: <TardSiren> ?
+[10:41:57] [Server thread/INFO]: <TardSiren> where?
+[10:41:58] [Server thread/INFO]: <OracleLSTV> faggot hog
+[10:42:02] [Server thread/INFO]: <TardSiren> oh fuck
+[10:42:05] [Server thread/INFO]: <TardSiren> ur stuff ok??
+[10:42:08] [Server thread/INFO]: <OracleLSTV> should be
+[10:43:03] [Server thread/INFO]: <TardSiren> oof not that bridge
+[10:43:06] [Server thread/INFO]: <TardSiren> fuckinhg mike
+[10:43:50] [Server thread/INFO]: <TardSiren> need blocks?
+[10:44:58] [Server thread/INFO]: <OracleLSTV> how tf are you supposed to see that
+[10:45:04] [Server thread/INFO]: <TardSiren> ask the beaner
+[10:45:48] [Server thread/INFO]: <TardSiren> anything burn?
+[10:45:56] [Server thread/INFO]: <TardSiren> pretty close to lava
+[10:45:58] [Server thread/INFO]: <OracleLSTV> just some of my armor I think
+[10:46:03] [Server thread/INFO]: <TardSiren> rip
+[10:46:32] [Server thread/INFO]: <TardSiren> i ask mike to make a portal to the end
+[10:46:34] [Server thread/INFO]: <TardSiren> this is what we got
+[10:47:32] [Server thread/INFO]: OracleLSTV has made the advancement [Eye Spy]
+[10:47:38] [Server thread/INFO]: OracleLSTV has made the advancement [The End?]
+[10:47:48] [Server thread/INFO]: <TardSiren> careful
+[10:47:55] [Server thread/INFO]: <TardSiren> they made this not safe at all
+[10:48:57] [Server thread/INFO]: <OracleLSTV> I'm turning mob sounds off jfc
+[10:49:01] [Server thread/INFO]: <TardSiren> yeah
+[10:49:19] [Server thread/INFO]: <TardSiren> tysm
+[10:49:22] [Server thread/INFO]: <TardSiren> sorry u died
+[10:49:22] [Server thread/INFO]: <OracleLSTV> np
+[10:49:26] [Server thread/INFO]: <OracleLSTV> eh
+[10:49:27] [Server thread/INFO]: <TardSiren> get ur lvls
+[10:49:44] [Server thread/INFO]: <TardSiren> sword is best
+[10:49:47] [Server thread/INFO]: <TardSiren> for the sweep
+[10:49:49] [Server thread/INFO]: <OracleLSTV> I don't have one on me
+[10:49:56] [Server thread/INFO]: <TardSiren> here
+[10:50:36] [Server thread/INFO]: <TardSiren> lemme see sword rq
+[10:52:24] [Server thread/INFO]: <TardSiren> i really hate my enchanting luck recently
+[10:52:48] [Server thread/INFO]: <OracleLSTV> you keeping this sword?
+[10:52:56] [Server thread/INFO]: <TardSiren> if u want u can
+[10:53:00] [Server thread/INFO]: <OracleLSTV> alright thanks
+[10:53:02] [Server thread/INFO]: <TardSiren> np
+[10:55:34] [Server thread/INFO]: <TardSiren> look at my new sword lmfao
+[10:55:47] [Server thread/INFO]: <TardSiren> the process starts again
+[10:56:29] [Server thread/INFO]: <TardSiren> can u put torches
+[10:56:49] [Server thread/INFO]: <TardSiren> ty
+[10:57:56] [Server thread/INFO]: <TardSiren> did u lose diamond armor?
+[10:58:05] [Server thread/INFO]: <OracleLSTV> yeah I had boots
+[10:58:15] [Server thread/INFO]: <TardSiren> o ok could be way worse
+[11:01:53] [Server thread/INFO]: <TardSiren> do u have string
+[11:01:58] [Server thread/INFO]: <OracleLSTV> not on me
+[11:02:02] [Server thread/INFO]: <TardSiren> these fucking bows
+[11:02:07] [Server thread/INFO]: <TardSiren> are gonna make me lsoe my shit
+[11:04:15] [Server thread/INFO]: <TardSiren> this vilager fiasco is gonna be horrible
+[11:04:18] [Server thread/INFO]: <OracleLSTV> yeah
+[11:04:24] [Server thread/INFO]: <TardSiren> i say we get 2 and make them just fuck
+[11:04:58] [Server thread/INFO]: <TardSiren> idk why i trust butter and mike to mess with villagers
+[11:06:36] [Server thread/INFO]: <TardSiren> all im fucking geting is unbreaking 3
+[11:06:38] [Server thread/INFO]: <TardSiren> on everything
+[11:15:26] [Server thread/INFO]: <OracleLSTV> do you have sweeping edge or something?
+[11:16:01] [Server thread/INFO]: <TardSiren> do u wanna do like a whole vilager breeder and shit?
+[11:16:12] [Server thread/INFO]: <OracleLSTV> not sure
+[11:32:29] [Server thread/INFO]: <TardSiren> my girlfriend wakes up for work in 30 mins
+[11:32:35] [Server thread/INFO]: <OracleLSTV> damn
+[11:32:40] [Server thread/INFO]: <TardSiren> and im here
+[11:32:43] [Server thread/INFO]: <TardSiren> again
+[11:46:56] [Server thread/INFO]: <TardSiren> feather falling doesnt exist
+[11:47:06] [Server thread/INFO]: <OracleLSTV> one big gaslight
+[11:47:45] [Server thread/INFO]: <TardSiren> feather falling fucking 2 does]\
+[12:01:09] [Server thread/INFO]: <TardSiren> dude
+[12:01:14] [Server thread/INFO]: <TardSiren> ive been here since u left
+[12:01:15] [Server thread/INFO]: <OracleLSTV> still nothing?
+[12:01:18] [Server thread/INFO]: <TardSiren> for feather falling 4
+[12:01:22] [Server thread/INFO]: <TardSiren> i just got it
+[12:01:23] [Server thread/INFO]: <OracleLSTV> wild
+[12:01:24] [Server thread/INFO]: <TardSiren> on a book
+[12:02:48] [Server thread/INFO]: <TardSiren> im not even gonna fuck with my bow rn
+[12:02:53] [Server thread/INFO]: <TardSiren> wanna do the villager shit?
+[12:02:57] [Server thread/INFO]: <OracleLSTV> yeah
+[12:03:51] [Server thread/INFO]: <OracleLSTV> was just making hanging signs for directions in the base
+[12:03:56] [Server thread/INFO]: <TardSiren> oh nice
+[12:04:06] [Server thread/INFO]: <TardSiren> ima come look at ur base before we go
+[12:04:22] [Server thread/INFO]: <TardSiren> iom so tired of enderman now
+[12:05:42] [Server thread/INFO]: <TardSiren> this resource pack i have for mobs is wild
+[12:05:52] [Server thread/INFO]: <TardSiren> when i hit a zombie it becoms a crawler
+[12:06:09] [Server thread/INFO]: <OracleLSTV> random rawdogging out in the open
+[12:07:07] [Server thread/INFO]: <TardSiren> we should def get weakness potions and gold apples
+[12:07:10] [Server thread/INFO]: <OracleLSTV> yeah
+[12:07:12] [Server thread/INFO]: <TardSiren> at least for the main ones
+[12:07:30] [Server thread/INFO]: <TardSiren> njice
+[12:07:33] [Server thread/INFO]: <TardSiren> looks good
+[12:07:44] [Server thread/INFO]: <TardSiren> ur base is def the most organized
+[12:08:01] [Server thread/INFO]: <TardSiren> names?
+[12:08:04] [Server thread/INFO]: <OracleLSTV> none yet
+[12:08:12] [Server thread/INFO]: <TardSiren> how terrible
+[12:08:16] [Server thread/INFO]: <TardSiren> i havent either
+[12:08:27] [Server thread/INFO]: <TardSiren> idk where anopther village is
+[12:08:31] [Server thread/INFO]: <OracleLSTV> me neither
+[12:08:34] [Server thread/INFO]: <TardSiren> but we need a boat
+[12:08:42] [Server thread/INFO]: <TardSiren> 2?
+[12:09:18] [Server thread/INFO]: <OracleLSTV> you get gay boat too
+[12:09:25] [Server thread/INFO]: <TardSiren> can we fuck on it
+[12:09:33] [Server thread/INFO]: <OracleLSTV> not without foreplay first
+[12:10:04] [Server thread/INFO]: <TardSiren> plains
+[12:11:22] [Server thread/INFO]: <TardSiren> oh
+[12:11:27] [Server thread/INFO]: <TardSiren> i didnt know this was this close
+[12:11:28] [Server thread/INFO]: <OracleLSTV> yeah it's that close
+[12:11:38] [Server thread/INFO]: <TardSiren> cows r gonna be murdered
+[12:11:48] [Server thread/INFO]: <TardSiren> nvm
+[12:11:51] [Server thread/INFO]: <TardSiren> not much
+[12:12:02] [Server thread/INFO]: <TardSiren> we need another cow farm
+[12:12:06] [Server thread/INFO]: <OracleLSTV> yeah
+[12:12:09] [Server thread/INFO]: <TardSiren> closer so the chunk is always loaded
+[12:13:30] [Server thread/INFO]: <OracleLSTV> mike's got that sheep farm near his house, so we can prob put the others there too
+[12:13:45] [Server thread/INFO]: <TardSiren> yeah, i know he made stairs and all
+[12:13:52] [Server thread/INFO]: <TardSiren> but why couldnt he be on the hill
+[12:14:05] [Server thread/INFO]: <TardSiren> taiga?
+[12:15:05] [Server thread/INFO]: <TardSiren> our roileplay will be huinter gatherer
+[12:15:15] [Server thread/INFO]: <OracleLSTV> OOGA BOOGA
+[12:16:09] [Server thread/INFO]: <TardSiren> ahah
+[12:17:16] [Server thread/INFO]: <TardSiren> did u bring water
+[12:17:18] [Server thread/INFO]: <OracleLSTV> yeah
+[12:17:23] [Server thread/INFO]: <TardSiren> good cs i didnrt
+[12:18:15] [Server thread/INFO]: <TardSiren> this is gonna be awful
+[12:18:32] [Server thread/INFO]: <TardSiren> u getting one?
+[12:18:35] [Server thread/INFO]: <TardSiren> or just 1
+[12:18:43] [Server thread/INFO]: <TardSiren> wait get a bed
+[12:18:45] [Server thread/INFO]: <OracleLSTV> it's gonna be pretty annoying at night
+[12:18:46] [Server thread/INFO]: <TardSiren> no zombs
+[12:18:52] [Server thread/INFO]: <TardSiren> yeah
+[12:20:12] [Server thread/INFO]: <TardSiren> im gonna leave this villager
+[12:20:20] [Server thread/INFO]: <TardSiren> cs going to bottom of hill was mistake
+[12:20:59] [Server thread/INFO]: <TardSiren> go up
+[12:21:05] [Server thread/INFO]: <TardSiren> so we can go down hill
+[12:21:42] [Server thread/INFO]: <TardSiren> do u think nether portaling it would be easier
+[12:21:46] [Server thread/INFO]: <OracleLSTV> maybe?
+[12:21:54] [Server thread/INFO]: <TardSiren> or do leads work?
+[12:22:01] [Server thread/INFO]: <OracleLSTV> leads should work but I didn't bring any
+[12:22:13] [Server thread/INFO]: <TardSiren> do u wanna go back and get leads
+[12:22:16] [Server thread/INFO]: <OracleLSTV> yeah
+[12:24:07] [Server thread/INFO]: <TardSiren> why do these trees just have no leaves
+[12:24:10] [Server thread/INFO]: <OracleLSTV> herobrine ass trees
+[12:24:16] [Server thread/INFO]: <TardSiren> oh wait
+[12:24:18] [Server thread/INFO]: <TardSiren> nero
+[12:24:20] [Server thread/INFO]: <TardSiren> for farm
+[12:26:39] [Server thread/INFO]: <TardSiren> put it on me
+[12:27:19] [Server thread/INFO]: <TardSiren> at least its not terribly far
+[12:31:05] [Server thread/INFO]: <TardSiren> leads dont work
+[12:33:10] [Server thread/INFO]: Villager coj['Villager'/570723, l='ServerLevel[world]', x=126.80, y=72.18, z=292.58] died, message: 'Villager was slain by Zombie'
+[12:33:40] [Server thread/INFO]: Villager coj['Librarian'/570724, l='ServerLevel[world]', x=151.50, y=79.00, z=287.35] died, message: 'Librarian was burned to a crisp while fighting Zombie Villager'
+[12:35:00] [Server thread/INFO]: <TardSiren> these fucking carpetsd
+[12:37:17] [Server thread/INFO]: <OracleLSTV> new tech
+[12:37:20] [Server thread/INFO]: <TardSiren> right
+[12:39:21] [Server thread/INFO]: <TardSiren> did u bring bed
+[12:39:24] [Server thread/INFO]: <OracleLSTV> no
+[12:39:27] [Server thread/INFO]: <TardSiren> well
+[12:39:33] [Server thread/INFO]: <TardSiren> escort mission
+[12:39:38] [Server thread/INFO]: <OracleLSTV> I have stuff for a bed tho
+[12:39:55] [Server thread/INFO]: <TardSiren> ok get to me
+[12:40:56] [Server thread/INFO]: <TardSiren> girlfriends awake
+[12:41:46] [Server thread/INFO]: <OracleLSTV> construction of the panama canal
+[12:41:47] [Server thread/WARN]: Cherry Boat (vehicle of TardSiren) moved wrongly! 0.28827641534743975
+[12:42:23] [Server thread/INFO]: <TardSiren> dude
+[12:42:28] [Server thread/INFO]: <TardSiren> fucking slingshot
+[12:43:09] [Server thread/INFO]: <OracleLSTV> where tf did my lead go
+[12:43:15] [Server thread/INFO]: <TardSiren> oh no\
+[12:43:24] [Server thread/INFO]: <OracleLSTV> there
+[12:44:55] [Server thread/WARN]: Cherry Boat (vehicle of OracleLSTV) moved wrongly! 0.3176707694895473
+[12:46:24] [Server thread/INFO]: <TardSiren> walk back and jump
+[12:47:03] [Server thread/INFO]: <TardSiren> for fuckls sake
+[12:47:29] [Server thread/INFO]: <TardSiren> tihs was the sex shop they made
+[12:50:01] [Server thread/INFO]: <TardSiren> now
+[12:50:04] [Server thread/INFO]: <TardSiren> sex?
+[12:50:27] [Server thread/INFO]: <TardSiren> is it carrots
+[12:50:27] [Server thread/INFO]: <TardSiren> or
+[12:50:32] [Server thread/INFO]: <OracleLSTV> don't remember
+[12:52:38] [Server thread/INFO]: <OracleLSTV> think we need a 3rd for babby
+[12:52:51] [Server thread/INFO]: <TardSiren> they need a threesome??
+[12:52:55] [Server thread/INFO]: <OracleLSTV> yeah
+[12:53:03] [Server thread/INFO]: <OracleLSTV> bed
+[12:53:06] [Server thread/INFO]: <TardSiren> oh
+[12:55:32] [Server thread/INFO]: <TardSiren> ?
+[12:56:03] [Server thread/INFO]: <TardSiren> more food?
+[12:57:56] [Server thread/INFO]: <OracleLSTV> supposed to take like 10 seconds
+[12:58:03] [Server thread/INFO]: <TardSiren> do they need privacy or some shit
+[12:58:31] [Server thread/INFO]: <TardSiren> one keeps getting mad ab ED or sum shit
+[12:59:39] [Server thread/INFO]: <TardSiren> oh
+[12:59:48] [Server thread/INFO]: <TardSiren> it may be because theyve never traded
+[13:00:12] [Server thread/INFO]: <TardSiren> cleric and librarian?
+[13:00:23] [Server thread/INFO]: <OracleLSTV> librarian
+[13:00:25] [Server thread/INFO]: <TardSiren> ok
+[13:00:34] [Server thread/INFO]: <TardSiren> i dont have shit for emeralds
+[13:00:38] [Server thread/INFO]: <OracleLSTV> me neither
+[13:00:47] [Server thread/INFO]: <OracleLSTV> maybe cleric first then
+[13:00:56] [Server thread/INFO]: <TardSiren> potion thing right?
+[13:01:00] [Server thread/INFO]: <OracleLSTV> yeah
+[13:02:23] [Server thread/INFO]: <TardSiren> w h y
+[13:02:25] [Server thread/INFO]: <OracleLSTV> we might need a village bell first
+[13:02:58] [Server thread/INFO]: <TardSiren> i hope theres one here
+[13:03:10] [Server thread/INFO]: <OracleLSTV> there better be because you can't craft it
+[13:03:15] [Server thread/INFO]: <TardSiren> ik
+[13:03:37] [Server thread/INFO]: <TardSiren> sleep
+[13:04:13] [Server thread/INFO]: <TardSiren> i stg
+[13:04:17] [Server thread/INFO]: <TardSiren> those two mongoloids
+[13:04:21] [Server thread/INFO]: <TardSiren> theres a villager here
+[13:04:27] [Server thread/INFO]: <OracleLSTV> lmao
+[13:05:40] [Server thread/INFO]: <TardSiren> no bell
+[13:05:50] [Server thread/INFO]: <OracleLSTV> can't spell bell without double L
+[13:07:08] [Server thread/INFO]: <TardSiren> wait
+[13:07:19] [Server thread/INFO]: <TardSiren> villager has to sleep/lay in a bed
+[13:07:22] [Server thread/INFO]: <TardSiren> to be linked
+[13:09:06] [Server thread/INFO]: <TardSiren> its only been those 2
+[13:10:06] [Server thread/INFO]: <TardSiren> i dont think ender pearls will be the first one
+[13:10:50] [Server thread/INFO]: <OracleLSTV> yeah I think that's the only thing for novice
+[13:11:02] [Server thread/INFO]: <TardSiren> lectern then?
+[13:11:14] [Server thread/INFO]: <OracleLSTV> ig
+[13:11:17] [Server thread/INFO]: <TardSiren> oh look
+[13:12:25] [Server thread/INFO]: <TardSiren> infinity
+[13:12:50] [Server thread/INFO]: <TardSiren> keep? or just mending rn
+[13:12:54] [Server thread/INFO]: <OracleLSTV> mending
+[13:15:55] [Server thread/INFO]: <TardSiren> they taunting me with flame and infinity
+[13:16:43] [Server thread/INFO]: <TardSiren> have more wool?
+[13:16:53] [Server thread/INFO]: <OracleLSTV> yeah
+[13:16:54] [Server thread/INFO]: <TardSiren> make another bed ig
+[13:20:16] [Server thread/INFO]: <TardSiren> this is retarded
+[13:23:11] [Server thread/INFO]: <TardSiren> got it
+[13:23:15] [Server thread/INFO]: <OracleLSTV> W
+[13:23:47] [Server thread/INFO]: <TardSiren> 10 emeralds
+[13:24:55] [Server thread/INFO]: <OracleLSTV> bro escaped
+[13:25:07] [Server thread/INFO]: <TardSiren> whats the next one we want
+[13:25:11] [Server thread/INFO]: <OracleLSTV> cleric probably
+[13:25:31] [Server thread/INFO]: <TardSiren> got rotten flesh? need to level him up
+[13:26:24] [Server thread/INFO]: <TardSiren> i only have 29
+[13:26:34] [Server thread/INFO]: <TardSiren> checking mikes
+[13:27:23] [Server thread/INFO]: <TardSiren> he had 6
+[13:29:26] [Server thread/INFO]: <TardSiren> ig ill just kill a shit tone tn
+[13:29:31] [Server thread/INFO]: <OracleLSTV> ig so
+[13:29:37] [Server thread/INFO]: <TardSiren> do u have some?
+[13:29:41] [Server thread/INFO]: <OracleLSTV> yeah I should
+[13:30:46] [Server thread/INFO]: <TardSiren> not enough
+[13:30:53] [Server thread/INFO]: <TardSiren> do u have looting on ur sword
+[13:30:56] [Server thread/INFO]: <OracleLSTV> yeah
+[13:31:08] [Server thread/INFO]: <TardSiren> ok we just kill tn then
+[13:31:34] [Server thread/INFO]: <TardSiren> why couldnt they do this
+[13:31:37] [Server thread/INFO]: <TardSiren> its not that hard
+[13:32:19] [Server thread/INFO]: <TardSiren> whats the next book we want
+[13:32:25] [Server thread/INFO]: <TardSiren> baby is big now
+[13:32:49] [Server thread/INFO]: <OracleLSTV> I don't remember if they can have unbreaking 3
+[13:32:51] [Server thread/INFO]: <TardSiren> i got silk touch
+[13:32:57] [Server thread/INFO]: <OracleLSTV> silk touch good too
+[13:33:00] [Server thread/INFO]: <TardSiren> they can
+[13:33:05] [Server thread/INFO]: <TardSiren> unbreaking 3?
+[13:33:18] [Server thread/INFO]: <OracleLSTV> yeah
+[13:33:29] [Server thread/INFO]: <TardSiren> either that or sharpness
+[13:33:30] [Server thread/INFO]: <TardSiren> for axes
+[13:33:32] [Server thread/INFO]: <OracleLSTV> yeah
+[13:35:33] [Server thread/INFO]: <TardSiren> careful nar my waterfall
+[13:35:36] [Server thread/INFO]: <TardSiren> pillagers
+[13:35:40] [Server thread/INFO]: <OracleLSTV> alright
+[13:35:41] [Server thread/INFO]: <TardSiren> near*
+[13:39:10] [Server thread/INFO]: <OracleLSTV> now what?
+[13:39:24] [Server thread/INFO]: <TardSiren> ikm getting rotten flesh
+[13:39:40] [Server thread/INFO]: <OracleLSTV> I really need a clock downstairs or something
+[13:40:14] [Server thread/INFO]: <OracleLSTV> oh I forgot I have no shield now
+[13:40:30] [Server thread/INFO]: <TardSiren> W
+[13:43:53] [Server thread/INFO]: <TardSiren> maybe fire aspect is not the movwe
+[13:48:13] [Server thread/INFO]: <TardSiren> lol
+[13:48:16] [Server thread/INFO]: <TardSiren> 2 mending
+[13:49:25] [Server thread/INFO]: <OracleLSTV> they have doors now
+[13:49:32] [Server thread/INFO]: <TardSiren> unbreaking 3
+[13:49:39] [Server thread/INFO]: <OracleLSTV> oh
+[13:49:47] [Server thread/INFO]: <TardSiren> lol
+[13:50:10] [Server thread/INFO]: <TardSiren> did u get any rotten flesh
+[13:50:18] [Server thread/INFO]: <TardSiren> he needs i think 2 or 3 trades to level up
+[13:50:24] [Server thread/INFO]: <TardSiren> not enough
+[13:50:33] [Server thread/INFO]: <TardSiren> unless u wanna do the zombie thing
+[13:50:41] [Server thread/INFO]: <OracleLSTV> ?
+[13:50:44] [Server thread/INFO]: <TardSiren> just need weakness potion and golden apple
+[13:50:47] [Server thread/INFO]: <OracleLSTV> oh that
+[13:50:52] [Server thread/INFO]: <TardSiren> turn him into a zombie then back
+[13:50:55] [Server thread/INFO]: <TardSiren> lowers prices
+[13:51:00] [Server thread/INFO]: <OracleLSTV> sure
+[13:51:26] [Server thread/INFO]: <TardSiren> ill make a hole for the zombie to put them in
+[13:51:29] [Server thread/INFO]: <TardSiren> or wait
+[13:51:34] [Server thread/INFO]: <TardSiren> do they just die?
+[13:51:55] [Server thread/INFO]: <TardSiren> i think me may have to just find zombie villagers
+[13:52:01] [Server thread/INFO]: <TardSiren> we*
+[13:54:47] [Server thread/INFO]: <TardSiren> he needs just one more trade
+[13:54:49] [Server thread/INFO]: OracleLSTV has made the advancement [What a Deal!]
+[13:54:52] [Server thread/INFO]: <TardSiren> nvm
+[13:55:05] [Server thread/INFO]: <TardSiren> no ender pearl
+[13:56:01] [Server thread/INFO]: <TardSiren> ok so
+[13:56:16] [Server thread/INFO]: <TardSiren> he wont do ender pearls for emeralds
+[13:56:21] [Server thread/INFO]: <TardSiren> other way around
+[13:57:55] [Server thread/INFO]: <TardSiren> best one for emeralds is prolly gonna be the farmer
+[13:58:21] [Server thread/INFO]: <TardSiren> but i think im gonna hop off for a bit
+[13:58:25] [Server thread/INFO]: <OracleLSTV> alright
+[13:58:27] [Server thread/INFO]: <TardSiren> might sleep idk yet
+[13:58:34] [Server thread/INFO]: <TardSiren> i may be back on soon
+[13:58:44] [Server thread/INFO]: <TardSiren> SEE U
+[13:58:46] [Server thread/INFO]: <OracleLSTV> ttyl
+[13:58:47] [Server thread/INFO]: <TardSiren> oops
+[13:58:53] [Server thread/INFO]: TardSiren lost connection: Disconnected
+[13:58:53] [Server thread/INFO]: TardSiren left the game
+[14:03:49] [Server thread/INFO]: OracleLSTV has made the advancement [Local Brewery]
+[14:07:42] [Server thread/INFO]: OracleLSTV lost connection: Disconnected
+[14:07:42] [Server thread/INFO]: OracleLSTV left the game
+[14:08:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
