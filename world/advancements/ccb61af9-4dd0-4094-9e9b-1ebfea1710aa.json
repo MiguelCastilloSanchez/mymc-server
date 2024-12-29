@@ -394,19 +394,26 @@
       "minecraft:pillager": "2024-12-25 21:01:23 +0000",
       "minecraft:blaze": "2024-12-26 02:16:32 +0000",
       "minecraft:skeleton": "2024-12-25 00:21:19 +0000",
+      "minecraft:zombified_piglin": "2024-12-28 16:58:49 +0000",
+      "minecraft:witch": "2024-12-27 18:09:03 +0000",
       "minecraft:wither_skeleton": "2024-12-26 02:19:47 +0000",
+      "minecraft:ravager": "2024-12-27 20:38:08 +0000",
       "minecraft:ender_dragon": "2024-12-26 20:43:17 +0000",
       "minecraft:hoglin": "2024-12-25 02:34:18 +0000",
       "minecraft:shulker": "2024-12-26 21:15:47 +0000",
       "minecraft:piglin": "2024-12-25 09:02:51 +0000",
+      "minecraft:vindicator": "2024-12-27 20:35:58 +0000",
       "minecraft:enderman": "2024-12-25 20:04:32 +0000",
       "minecraft:silverfish": "2024-12-26 20:24:29 +0000",
       "minecraft:magma_cube": "2024-12-26 02:16:42 +0000",
+      "minecraft:endermite": "2024-12-27 18:30:49 +0000",
       "minecraft:spider": "2024-12-25 01:09:45 +0000",
+      "minecraft:vex": "2024-12-27 20:37:46 +0000",
       "minecraft:zombie": "2024-12-25 00:19:29 +0000",
       "minecraft:creeper": "2024-12-25 00:58:07 +0000",
       "minecraft:drowned": "2024-12-26 19:44:31 +0000",
-      "minecraft:zombie_villager": "2024-12-22 07:38:51 +0000"
+      "minecraft:zombie_villager": "2024-12-22 07:38:51 +0000",
+      "minecraft:evoker": "2024-12-27 20:38:00 +0000"
     },
     "done": false
   },
@@ -3124,27 +3131,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/orange_bundle": {
-    "criteria": {
-      "has_orange_dye": "2024-12-27 07:06:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2024-12-27 05:56:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-12-27 07:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_candle": {
-    "criteria": {
-      "has_orange_dye": "2024-12-27 07:06:41 +0000"
     },
     "done": true
   },
@@ -3154,63 +3143,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-27 07:06:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_blue_dye": "2024-12-27 07:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/cyan_dye": {
-    "criteria": {
-      "has_blue_dye": "2024-12-27 07:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-27 07:06:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-12-27 07:06:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-12-27 07:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-12-27 07:06:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_red_dye": "2024-12-27 07:06:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2024-12-27 05:56:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-27 07:06:14 +0000"
     },
     "done": true
   },
@@ -3220,39 +3155,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_bed": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
-      "has_needed_dye": "2024-12-27 07:06:41 +0000"
+      "has_nether_gold_ore": "2024-12-27 06:08:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_candle": {
+  "minecraft:recipes/misc/quartz": {
     "criteria": {
-      "has_blue_dye": "2024-12-27 07:06:24 +0000"
+      "has_nether_quartz_ore": "2024-12-27 06:14:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+  "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
-      "has_needed_dye": "2024-12-27 07:06:41 +0000"
+      "has_nether_quartz_ore": "2024-12-27 06:14:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_candle": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_red_dye": "2024-12-27 07:06:22 +0000"
+      "shot_arrow": "2024-12-27 06:58:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/light_gray_bundle": {
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
-      "has_light_gray_dye": "2024-12-27 07:06:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_red_dye": "2024-12-27 07:06:22 +0000"
+      "has_yellow_dye": "2024-12-27 07:06:14 +0000"
     },
     "done": true
   },
@@ -3268,63 +3197,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-12-27 06:58:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz": {
-    "criteria": {
-      "has_nether_quartz_ore": "2024-12-27 06:14:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_candle": {
-    "criteria": {
-      "has_light_gray_dye": "2024-12-27 07:06:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/red_bundle": {
-    "criteria": {
-      "has_red_dye": "2024-12-27 07:06:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-12-27 07:06:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/blue_bundle": {
-    "criteria": {
-      "has_blue_dye": "2024-12-27 07:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
-    "criteria": {
-      "has_nether_gold_ore": "2024-12-27 06:08:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_red_dye": "2024-12-27 07:06:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-27 07:06:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-27 07:06:24 +0000"
     },
     "done": true
   },
@@ -3334,15 +3209,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 07:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 07:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 07:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/light_gray_bundle": {
+    "criteria": {
+      "has_light_gray_dye": "2024-12-27 07:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2024-12-27 07:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 07:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-27 07:06:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+  "minecraft:recipes/building_blocks/dye_red_wool": {
     "criteria": {
-      "has_needed_dye": "2024-12-27 07:06:14 +0000"
+      "has_needed_dye": "2024-12-27 07:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-27 07:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-12-27 07:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2024-12-27 07:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/red_bundle": {
+    "criteria": {
+      "has_red_dye": "2024-12-27 07:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-27 07:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 07:06:22 +0000"
     },
     "done": true
   },
@@ -3352,15 +3299,165 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/quartz_from_blasting": {
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
-      "has_nether_quartz_ore": "2024-12-27 06:14:02 +0000"
+      "has_needed_dye": "2024-12-27 07:06:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
-      "has_needed_dye": "2024-12-27 07:06:17 +0000"
+      "has_blue_dye": "2024-12-27 07:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-27 07:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 07:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2024-12-27 07:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/blue_bundle": {
+    "criteria": {
+      "has_blue_dye": "2024-12-27 07:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 07:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/orange_bundle": {
+    "criteria": {
+      "has_orange_dye": "2024-12-27 07:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2024-12-27 07:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 07:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 07:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 07:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-12-27 17:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-27 17:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-27 17:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-27 18:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 18:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-27 18:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-27 20:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-27 20:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-27 20:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-27 20:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-27 20:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-27 20:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-12-27 20:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2024-12-27 20:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-27 20:38:33 +0000"
     },
     "done": true
   },
