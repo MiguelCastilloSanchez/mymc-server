@@ -1,5 +1,121 @@
-[00:04:06] [Server thread/INFO]: Butterbooooi has made the advancement [The Parrots and the Bats]
-[00:17:21] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[01:17:46] [User Authenticator #22/INFO]: UUID of player voidnero is 2c425beb-b0d5-469b-a6c0-4eaf617422ea
+[01:17:47] [Server thread/INFO]: voidnero[/186.169.20.34:60762] logged in with entity id 458324 at (-115.4446125303401, 62.0, -549.6999999880791)
+[01:17:47] [Server thread/INFO]: voidnero joined the game
+[01:25:35] [Server thread/INFO]: voidnero has made the advancement [Those Were the Days]
+[01:25:40] [Server thread/INFO]: voidnero has made the advancement [War Pigs]
+[01:26:06] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-589, y=60, z=-267} ji{x=-500, y=37, z=-624}
+[01:27:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-500, y=17, z=-616} ji{x=-500, y=15, z=-615}
+[01:27:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-500, y=17, z=-616} ji{x=-500, y=15, z=-615}
+[01:27:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-500, y=17, z=-616} ji{x=-500, y=15, z=-615}
+[01:27:14] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-500, y=16, z=-607} ji{x=-500, y=16, z=-614}
+[01:27:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-500, y=16, z=-607} ji{x=-500, y=16, z=-615}
+[01:27:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-500, y=16, z=-604} ji{x=-500, y=15, z=-602}
+[01:28:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-500, y=15, z=-542} ji{x=-500, y=16, z=-631}
+[01:28:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-500, y=15, z=-542} ji{x=-500, y=16, z=-631}
+[01:28:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-500, y=15, z=-542} ji{x=-500, y=16, z=-631}
+[01:28:37] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-499, y=16, z=-630} ji{x=-500, y=14, z=-630}
+[01:28:43] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-499, y=16, z=-630} ji{x=-500, y=15, z=-629}
+[01:29:13] [Server thread/INFO]: voidnero has made the advancement [Hidden in the Depths]
+[01:35:51] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-596, y=15, z=-653} ji{x=-598, y=15, z=-653}
+[01:35:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-596, y=15, z=-653} ji{x=-597, y=16, z=-653}
+[01:39:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-602, y=16, z=-635} ji{x=-602, y=15, z=-635}
+[01:40:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-476, y=16, z=-655} ji{x=-474, y=15, z=-655}
+[01:40:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-476, y=16, z=-655} ji{x=-474, y=15, z=-655}
+[01:40:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-476, y=16, z=-655} ji{x=-474, y=15, z=-655}
+[01:40:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-476, y=16, z=-655} ji{x=-474, y=15, z=-655}
+[01:40:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-476, y=16, z=-655} ji{x=-474, y=15, z=-655}
+[01:40:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-476, y=16, z=-655} ji{x=-474, y=15, z=-655}
+[01:40:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-476, y=16, z=-655} ji{x=-474, y=15, z=-655}
+[01:40:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-476, y=16, z=-655} ji{x=-474, y=15, z=-655}
+[01:40:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-476, y=16, z=-655} ji{x=-474, y=15, z=-655}
+[01:40:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-476, y=16, z=-655} ji{x=-474, y=15, z=-655}
+[01:40:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-476, y=16, z=-655} ji{x=-474, y=15, z=-655}
+[01:40:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-476, y=16, z=-655} ji{x=-474, y=15, z=-655}
+[01:40:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-476, y=16, z=-655} ji{x=-474, y=15, z=-655}
+[01:40:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-476, y=16, z=-655} ji{x=-474, y=15, z=-655}
+[01:43:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-481, y=20, z=-654} ji{x=-468, y=15, z=-658}
+[01:43:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-645} ji{x=-526, y=15, z=-644}
+[01:43:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-645} ji{x=-526, y=15, z=-644}
+[01:43:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-645} ji{x=-526, y=15, z=-644}
+[01:43:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-645} ji{x=-526, y=15, z=-644}
+[01:43:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-645} ji{x=-526, y=15, z=-644}
+[01:49:39] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-438, y=16, z=-563} ji{x=-446, y=16, z=-560}
+[01:54:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-570, y=14, z=-608} ji{x=-559, y=13, z=-629}
+[01:54:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-570, y=14, z=-608} ji{x=-559, y=13, z=-629}
+[01:54:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-570, y=14, z=-608} ji{x=-559, y=13, z=-629}
+[01:54:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-570, y=14, z=-608} ji{x=-559, y=13, z=-629}
+[01:54:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-570, y=14, z=-608} ji{x=-559, y=13, z=-629}
+[01:54:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-570, y=14, z=-608} ji{x=-559, y=13, z=-629}
+[01:54:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-570, y=14, z=-608} ji{x=-559, y=13, z=-629}
+[01:57:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:57:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-526, y=15, z=-677} ji{x=-527, y=15, z=-678}
+[01:58:33] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-542, y=16, z=-667} ji{x=-546, y=16, z=-665}
+[01:58:44] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-548, y=17, z=-687} ji{x=-545, y=14, z=-686}
+[01:59:19] [Server thread/INFO]: voidnero has completed the challenge [Hot Tourist Destinations]
+[02:00:04] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-561, y=12, z=-768} ji{x=-560, y=11, z=-766}
+[02:00:19] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-556, y=18, z=-757} ji{x=-556, y=19, z=-757}
+[02:00:19] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-556, y=18, z=-757} ji{x=-556, y=19, z=-757}
+[02:00:19] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-556, y=18, z=-757} ji{x=-556, y=19, z=-757}
+[02:00:19] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-556, y=18, z=-757} ji{x=-556, y=19, z=-757}
+[02:00:20] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-556, y=18, z=-757} ji{x=-556, y=19, z=-757}
+[02:00:20] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-556, y=18, z=-757} ji{x=-556, y=19, z=-757}
+[02:00:20] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-556, y=18, z=-757} ji{x=-556, y=19, z=-757}
+[02:00:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-554, y=19, z=-754} ji{x=-553, y=21, z=-753}
+[02:01:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-614, y=22, z=-768} ji{x=-614, y=21, z=-768}
+[02:01:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-614, y=22, z=-768} ji{x=-614, y=21, z=-768}
+[02:02:44] [Server thread/WARN]: voidnero moved wrongly!
+[02:05:05] [Server thread/INFO]: voidnero lost connection: Timed out
+[02:05:05] [Server thread/INFO]: voidnero left the game
+[02:05:05] [Server thread/WARN]: handleDisconnection() called twice
+[02:06:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:09:22] [User Authenticator #23/INFO]: UUID of player voidnero is 2c425beb-b0d5-469b-a6c0-4eaf617422ea
+[02:09:23] [Server thread/INFO]: voidnero[/186.169.20.34:51305] logged in with entity id 479975 at (-115.77113427927317, 63.0, -541.434343262114)
+[02:09:23] [Server thread/INFO]: voidnero joined the game
+[02:15:28] [Server thread/INFO]: voidnero has completed the challenge [Return to Sender]
+[02:22:04] [Server thread/INFO]: voidnero has completed the challenge [Cover Me in Debris]
+[02:46:28] [Server thread/INFO]: voidnero lost connection: Disconnected
+[02:46:28] [Server thread/INFO]: voidnero left the game
+[02:47:28] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:38:51] [User Authenticator #24/INFO]: UUID of player voidnero is 2c425beb-b0d5-469b-a6c0-4eaf617422ea
+[03:38:52] [Server thread/INFO]: voidnero[/186.169.20.34:63926] logged in with entity id 489899 at (-132.69999998807907, 59.0, -546.6999999880791)
+[03:38:52] [Server thread/INFO]: voidnero joined the game
+[03:44:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[03:47:14] [Server thread/INFO]: voidnero lost connection: Disconnected
+[03:47:15] [Server thread/INFO]: voidnero left the game
+[03:48:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:09:25] [User Authenticator #25/INFO]: UUID of player voidnero is 2c425beb-b0d5-469b-a6c0-4eaf617422ea
+[04:09:25] [Server thread/INFO]: voidnero[/186.169.20.34:57407] logged in with entity id 498372 at (-1585.5981874355004, 68.31126226939215, -3361.6871984921395)
+[04:09:25] [Server thread/INFO]: voidnero joined the game
+[04:10:28] [Server thread/WARN]: voidnero moved too quickly! -11.998339111373753,-1.516859226653395,-13.199241932078621
+[04:12:17] [Server thread/INFO]: voidnero lost connection: Disconnected
+[04:12:17] [Server thread/INFO]: voidnero left the game
+[04:13:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:49:18] [User Authenticator #26/INFO]: UUID of player voidnero is 2c425beb-b0d5-469b-a6c0-4eaf617422ea
+[04:49:18] [Server thread/INFO]: voidnero[/186.169.20.34:53908] logged in with entity id 501689 at (-2722.9538153939734, 70.0, -3721.699999988079)
+[04:49:18] [Server thread/INFO]: voidnero joined the game
+[04:53:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[04:56:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3071ms or 61 ticks behind
+[04:57:04] [Server thread/INFO]: voidnero lost connection: Disconnected
+[04:57:04] [Server thread/INFO]: voidnero left the game
+[04:58:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[06:14:40] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
 	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
@@ -38,4 +154,85 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[00:46:12] [Server thread/INFO]: Butterbooooi has made the advancement [Sneak 100]
+[11:04:04] [User Authenticator #27/INFO]: UUID of player OracleLSTV is 46bf16ac-d38e-4200-b614-d3fb589806f4
+[11:04:06] [Server thread/INFO]: OracleLSTV[/98.4.231.41:55109] logged in with entity id 507433 at (-93.53029972092021, 135.0625, -369.63488255211223)
+[11:04:06] [Server thread/INFO]: OracleLSTV joined the game
+[11:05:08] [Server thread/INFO]: OracleLSTV lost connection: Disconnected
+[11:05:08] [Server thread/INFO]: OracleLSTV left the game
+[11:06:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:29:30] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
+	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
+	at vu.a(SourceFile:26) ~[server-1.21.4.jar:?]
+	at vu.encode(SourceFile:12) ~[server-1.21.4.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi$2.write(SourceFile:530) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at vi.c(SourceFile:350) ~[server-1.21.4.jar:?]
+	at vi.b(SourceFile:343) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:325) ~[server-1.21.4.jar:?]
+	at vi.a(SourceFile:319) ~[server-1.21.4.jar:?]
+	at vi.exceptionCaught(SourceFile:170) ~[server-1.21.4.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[14:31:28] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:33268) lost connection: Disconnected
+[17:17:32] [User Authenticator #28/INFO]: UUID of player voidnero is 2c425beb-b0d5-469b-a6c0-4eaf617422ea
+[17:17:33] [Server thread/INFO]: voidnero[/186.169.20.34:49412] logged in with entity id 507949 at (-1647.4623661805686, 89.0, -5443.397362570492)
+[17:17:33] [Server thread/INFO]: voidnero joined the game
+[17:20:04] [Server thread/WARN]: voidnero moved too quickly! -8.033880762348417,-3.5779013339011954,-15.128269248562901
+[17:20:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
+[17:23:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
+[17:23:23] [Server thread/WARN]: voidnero moved too quickly! -5.3744662238609635,-2.176759275064242,-8.258901928753403
+[17:26:09] [Server thread/INFO]: voidnero has made the advancement [Minecraft: Trial(s) Edition]
+[17:30:28] [Server thread/INFO]: voidnero has made the advancement [Under Lock and Key]
+[17:39:42] [Server thread/INFO]: voidnero has reached the goal [Revaulting]
+[17:57:41] [Server thread/INFO]: voidnero has made the advancement [Ol' Betsy]
+[17:57:42] [Server thread/INFO]: voidnero has made the advancement [Take Aim]
+[17:59:35] [Server thread/INFO]: voidnero lost connection: Disconnected
+[17:59:35] [Server thread/INFO]: voidnero left the game
+[18:00:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:02:51] [User Authenticator #29/INFO]: UUID of player voidnero is 2c425beb-b0d5-469b-a6c0-4eaf617422ea
+[20:02:52] [Server thread/INFO]: voidnero[/186.169.20.34:53487] logged in with entity id 521447 at (-3137.699999988079, 10.0, -7042.4333098511925)
+[20:02:52] [Server thread/INFO]: voidnero joined the game
+[20:03:00] [Server thread/INFO]: <voidnero> asd
+[20:05:42] [Server thread/WARN]: voidnero moved too quickly! -8.841425275041274,7.465062116226946,-13.779319476098863
+[20:05:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[20:05:44] [Server thread/WARN]: voidnero moved too quickly! -9.112595638021048,3.9059934731707813,-14.925788833287697
+[20:05:45] [Server thread/INFO]: voidnero lost connection: Disconnected
+[20:05:45] [Server thread/INFO]: voidnero left the game
+[20:06:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:08:41] [Server thread/INFO]: Stopping the server
+[22:08:41] [Server thread/INFO]: Stopping server
+[22:08:41] [Server thread/INFO]: Saving players
+[22:08:41] [Server thread/INFO]: Saving worlds
+[22:08:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:08:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:08:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:08:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:08:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:08:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:08:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
